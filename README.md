@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @DivCodingHQ
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS 
-- 😄 Pronouns: He/Him
+# DivCodingHQ
 
-<!---
-DivCodingHQ/DivCodingHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+** WordPress Expert & Coding Developer **
+
+As a seasoned WordPress aficionado, I thrive on creating captivating online experiences that resonate with users. With a meticulous approach to coding, I bring concepts to life with finesse and functionality. My passion lies in leveraging the power of WordPress to its fullest potential, crafting dynamic websites that leave a lasting impression.
